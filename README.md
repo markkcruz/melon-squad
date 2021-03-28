@@ -1,4 +1,4 @@
 # melon-squad
 A tribute to the melon squad
 
-update!
+https://markkcruz.github.io/melon-squad/
